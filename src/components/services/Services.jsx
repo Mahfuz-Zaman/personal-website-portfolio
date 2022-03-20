@@ -31,9 +31,7 @@ const Services = () => {
             <li><BsCheck2All className="service__list-icon"/>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
-            <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+
           </ul>
         </article>
         {/* End Of Ux/UI  */}
@@ -60,12 +58,7 @@ const Services = () => {
             <li><BsCheck2All className="service__list-icon"/>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
-            <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+ 
           </ul>
         </article>
         {/* End Of Web Development  */}
@@ -92,9 +85,7 @@ const Services = () => {
             <li><BsCheck2All className="service__list-icon"/>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
-            <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+
           </ul>
         </article>
       </div>
