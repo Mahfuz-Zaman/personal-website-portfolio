@@ -14,22 +14,22 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Prepare and present rough drafts to internal teams and key stakeholders</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Illustrate design ideas using storyboards, process flows and sitemaps</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Design graphic user interface elements, like menus, tabs and widgets</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Gather and evaluate user requirements in collaboration with product managers and engineers</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Develop UI mockups and prototypes that clearly illustrate how sites function and look like</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Adhere to style standards on fonts, colors and images</p>
             </li>
 
           </ul>
@@ -41,22 +41,22 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Write well designed, testable, efficient code by using best software development practices</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create website layout/user interface by using standard HTML/CSS practices</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Integrate data from various back-end services and databases.</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Gather and refine specifications and requirements based on technical needs</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create and maintain software documentation</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Be responsible for maintaining, expanding, and scaling our site</p>
             </li>
  
           </ul>
@@ -68,22 +68,25 @@ const Services = () => {
           </div>
           <ul className="service__list">
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Research industry-related topics</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Prepare well-structured drafts using digital publishing platforms</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Create and distribute marketing copy to advertise our company and products</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Interview industry professionals and incorporate their views in blog posts</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Edit and proofread written pieces before publication</p>
             </li>
             <li><BsCheck2All className="service__list-icon"/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Promote content on social networks and monitor engagement</p>
+            </li>
+            <li><BsCheck2All className="service__list-icon"/>
+            <p>Identify customers’ needs and recommend new topics</p>
             </li>
 
           </ul>

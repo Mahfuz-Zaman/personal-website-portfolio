@@ -17,60 +17,60 @@ const Portfolio = () => {
           <div className="portfolio__items-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Laptop-Valley</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/Project-Laptop-Valley-Client" className="btn" target="_blank">GitHub</a>
+          <a href="https://laptop-valley-assignment-12.web.app/" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
         <article className="portfolio__items">
           <div className="portfolio__items-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>BD-Travel</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/Project-BD-Travell-Client" className="btn" target="_blank">GitHub</a>
+          <a href="https://tourism-assignment.web.app/" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
         <article className="portfolio__items">
           <div className="portfolio__items-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Modern-Hospital</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/Project-Modern-Hospital" className="btn" target="_blank">GitHub</a>
+          <a href="https://health-care-service-for-all.web.app/" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
         <article className="portfolio__items">
           <div className="portfolio__items-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Personal portfolio Website</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/My-Professional-Portfolio" className="btn" target="_blank">GitHub</a>
+          <a href="https://mahfuz-zaman-professional-portfolio.netlify.app/#" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
         <article className="portfolio__items">
           <div className="portfolio__items-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Global Learning</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/Project-Global-Learning" className="btn" target="_blank">GitHub</a>
+          <a href="https://educationalwebsite-global-learning.netlify.app/" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
         <article className="portfolio__items">
           <div className="portfolio__items-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>H-Mart</h3>
  <div className="portfolio__items-cta">
- <a href="https://github.com" className="btn" target="_blank">GitHub</a>
-          <a href="https://dribble.com/Alien_pixels" className="btn btn-primary" target="_blank">Live Demo</a>
+ <a href="https://github.com/Mahfuz-Zaman/Project-H-Mart" className="btn" target="_blank">GitHub</a>
+          <a href="https://silly-borg-847e6c.netlify.app/" className="btn btn-primary" target="_blank">Live Demo</a>
  </div>
         </article>
       </div>

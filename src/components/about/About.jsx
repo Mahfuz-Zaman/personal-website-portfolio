@@ -34,7 +34,7 @@ const About = () => {
       <small>15+ Completed</small>
     </article>
   </div>
-  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt vero maiores quisquam? Commodi aliquam, laudantium at est non sequi repellat. Dignissimos facilis temporibus fuga modi harum enim, sint sed dicta!</p>
+  <p>Hi, I'm glad you're here! I'm a Technical lead with hands-on experience in Javascript, React.js, and Nodejs for the past 2 years coupled with a great amount of development experience.To achieve my objective I am fully prepared to show my honesty, hard work, patience, physical and mental fitness and sufficient confidence along with merit encountering any sort of diverse situation. Want to impact lives through meaningful works & contribution using my potentials in the field of technology.</p>
   <a href="#contact" className='btn btn-primary'>Let's Talk</a>
   </div>
         </div>
