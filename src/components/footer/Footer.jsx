@@ -20,9 +20,9 @@ const Footer = () => {
 </ul>
 
 <div className="footer__socials">
-  <a href="https://www.facebook.com/07.69pain"><FaFacebookF/></a>
-  <a href="https://www.linkedin.com/in/mahfuzzaman/"><FaLinkedinIn/></a>
-  <a href="https://twitter.com/MahfuzZaman4"><FaTwitter/></a>
+  <a href="https://www.facebook.com/07.69pain" target="_blank"><FaFacebookF/></a>
+  <a href="https://www.linkedin.com/in/mahfuzzaman/" target="_blank"><FaLinkedinIn/></a>
+  <a href="https://twitter.com/MahfuzZaman4" target="_blank"><FaTwitter/></a>
 </div>
 <div className="footer__copyright">
   <small>&copy;Mahfuz Zaman||All rights reserved</small>
