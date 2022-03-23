@@ -51,7 +51,7 @@ const Testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR4} alt="" />         
           </div>
-          <h5 className="client__name">Amit</h5>
+          <h5 className="client__name">Shahed</h5>
             <small className="client__review">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus impedit recusandae adipisci, odit nam exercitationem dolorem explicabo nostrum. Obcaecati fuga facere iusto minima quod corporis, placeat consequuntur explicabo quam alias!</small>
         </SwiperSlide>
       </Swiper>
